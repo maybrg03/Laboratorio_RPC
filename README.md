@@ -142,10 +142,8 @@ No menu do cliente:
 
 ## Resultados Obtidos
 
-| Aplicação | Resultado | Observações |
-|------------|------------|-------------|
-| **Calculadora RPC** | Comunicação e operações corretas via gRPC | Latência muito baixa e fácil extensão de métodos |
-| **Minerador RPC** | Simulação bem-sucedida de prova de trabalho | Controle de concorrência e criação automática de novos desafios |
+**Calculadora RPC:** Comunicação e operações corretas via gRPC, Latência muito baixa e fácil extensão de métodos
+**Minerador RPC** Simulação bem-sucedida de prova de trabalho, Controle de concorrência e criação automática de novos desafios
 
 
 
