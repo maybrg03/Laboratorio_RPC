@@ -4,7 +4,6 @@
 **Professor:** Breno Krohling  
 **Linguagem:** Python 3  
 **Tecnologia:** gRPC (Google Remote Procedure Call)
-
 **Integrantes do grupo:** Daniely de Sá Cadette, Lívya Victoria Pereira Ferreira, Lorraine Efigênio dos Santos, Mayara Modesto Bregonci
 
 
